@@ -17,10 +17,11 @@ pip install networkx
 pip install seaborn
 pip install gower
 pip install python-louvain 
-pip install collections
+pip install collections # ??
 pip install plotly==5.17.0
 pip install ipywidgets tqdm
 pip install SimpleITK nibabel scikit-image scikit-learn nilearn
+pip install audio-program-generator
 ```
 
 Jypyter notebooks:
